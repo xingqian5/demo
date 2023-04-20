@@ -1,4 +1,4 @@
-package com.example.demo.Configuration;
+package com.example.demo.configuration;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.security.core.Authentication;
